@@ -25,8 +25,11 @@ https://www.microsoft.com/en-us/iot-central#
  
 Portal:
 https://apps.azureiotcentral.com/
+
 Windows 10 IoT Core Dashboard is the best way to download, set up and connect your Windows 10 IoT Core devices, all from your PC.
- Windows IoT Dashboard:
+
+Windows 10 IoT Core Dashboard is the best way to download, set up and connect your Windows 10 IoT Core devices, all from your PC.
+Windows IoT Dashboard:
 https://docs.microsoft.com/en-us/windows/iot-core/connect-your-device/iotdashboard
 
 
