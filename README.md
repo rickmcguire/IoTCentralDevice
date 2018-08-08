@@ -31,4 +31,5 @@ Windows IoT Dashboard:
 https://docs.microsoft.com/en-us/windows/iot-core/connect-your-device/iotdashboard
 
 
-
+Important - NuGet Packages and versions for this working demo:
+This project used 1.7.1 Azure.Devices.Client and 5.4.0 of Microsoft.NetCore.UniversalWindowsPlatform
